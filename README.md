@@ -12,6 +12,7 @@ Adds a custom brewing stand that modders can easily add brewing recipes to.
 ## How to use BrewLib?
 
 ### Without packaging the API
+**NOTE:** As I haven't finished the mod yet, the I haven't setup the maven repo yet. For now, just use the other method and I'll remove this notice once the maven repo is up.
 1. Download the deobfuscated version from my website (https://lomeli12.net/) and add it as a dependency to your project in whatever IDE you prefer (I'd recommend either IntelliJ IDEA or Eclipse)
 2. Add the following to your *build.gradle*
 ```
